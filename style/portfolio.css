@@ -98,7 +98,20 @@ nav a{
 }
 
 /* main section style */
+.main{
+    max-width: 1100px;
+    margin: 0 auto;
+}
 
+.about-info-container{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+}
+
+.about-info{
+    text-align: center;
+}
 /* about section atyle */
 .about{
     padding: 130px;
